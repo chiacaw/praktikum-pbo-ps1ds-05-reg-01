@@ -4,8 +4,8 @@ Repositori ini adalah tempat pengumpulan tugas dan laporan praktikum Pemrograman
 
 ## Identitas Praktikan
 Silakan ganti teks di dalam kurung siku dengan identitas Anda:
-- **Nama Lengkap:** [Isi Nama Lengkap Anda di sini]
-- **NIM:** [Isi NIM Anda di sini]
+- **Nama Lengkap:** ANDI MUHAMMAD ABID JAYA
+- **NIM:** 103132400014
 
 ## Struktur Direktori
 
